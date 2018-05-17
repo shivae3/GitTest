@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 THIS IS DEVOPS AND AWS CLASS
+=======
+
